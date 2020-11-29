@@ -8,5 +8,7 @@ a.append(4)
 print(a)
 
 
-for i, j in enumerate(a,1):
-    print(i, j)
+# for i, j in enumerate(a,1):
+#     print(i, j)
+
+print(a[:-1])
